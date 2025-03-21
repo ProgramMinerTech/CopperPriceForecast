@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+env/
+venv/
+
+# Archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datos que no quieras subir
+Data/raw/
